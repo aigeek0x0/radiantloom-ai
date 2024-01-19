@@ -16,7 +16,7 @@ FLASH_ATTENTION_SKIP_CUDA_BUILD=TRUE pip install flash-attn --no-build-isolation
 
 5. Check the Pod logs to ensure that the model has been downloaded, and you see a "connected" message towards the end of the logs. This process may take 20-30 minutes and might require 4-5 Pod restarts. There are issues with model downloads causing it to get stuck, so monitor the RAM usage and logs to determine if it's loading or not.
 
-Once connected, you can call the API at the Mixtral-8x7B-Instruct-v0.1 Fusion generation endpoint using code compatible with the OpenAI API at the following link.
+Once connected, you can call the API at the Mixtral-8x7B-Instruct-v0.1 generation endpoint using code compatible with the OpenAI API at the following link.
 ```
 https://{ENTER_YOUR_POD_ID}-8080.proxy.runpod.net
 ```
