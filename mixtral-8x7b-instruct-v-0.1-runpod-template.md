@@ -23,6 +23,6 @@ https://{ENTER_YOUR_POD_ID}-8080.proxy.runpod.net
 Here is a [Google Colab link](https://colab.research.google.com/drive/1jQAx3YbyNdY-NNPabMugwJ3pVZ7S3p2g#scrollTo=dqtCxoB002uy) with inference code.
 
 ## Mixtral-8x7B-Instruct-v0.1
-The Mixtral-8x7B Large Language Model (LLM) is a pretrained generative Sparse Mixture of Experts. The Mixtral-8x7B outperforms Llama 2 70B on most benchmarks we tested.
+The Mixtral-8x7B Large Language Model (LLM) is a pretrained generative Sparse Mixture of Experts. The Mixtral-8x7B outperforms Llama 2 70B on most benchmarks.
 
 [Learn More](https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1)
